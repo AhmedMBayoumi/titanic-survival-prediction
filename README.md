@@ -75,6 +75,3 @@ To train and evaluate the models, run the Jupyter notebooks in the `notebooks/` 
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
